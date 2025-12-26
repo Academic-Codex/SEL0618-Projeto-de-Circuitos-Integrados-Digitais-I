@@ -1,0 +1,12 @@
+REPO_TAGLINE: IC design • layout • electronic systems
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: workload
+SITE_URL: https://academic-codex.github.io/SEL0618-Projeto-Circuito-Integrado-I
+
+BG_1: "#1A0E14"
+BG_2: "#3A1B2A"
+TEXT_MAIN: "#FFE6F0"
+TEXT_MUTED: "#E0B8C8"
+ACCENT: "#FB7185"
+CARD_RADIUS: "14"
